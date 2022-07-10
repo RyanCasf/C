@@ -10,7 +10,7 @@ int main() {
 	int resultado;
 	resultado = fatorial(numero);
 	
-	printf("Resultado.: %i", resultado);
+	printf("Resultado.: %i", resultado);s
 	return 0;
 }
 

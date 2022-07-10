@@ -1,6 +1,5 @@
 #include <stdio.h>
-main()
-{
+main() {
 	int idade = 18;
 	float altura = 1.76;
 	char letraInicial = 'R';
