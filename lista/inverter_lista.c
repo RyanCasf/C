@@ -16,18 +16,11 @@ main()
 
 void interter_lista(int lista[], int quantidade_lista) 
 {
-	int i = 0;
-	int j = quantidade_lista - 1;
-	
-	while (i<quantidade_lista/2) {
+	int i;
+	for (i=0; i<quantidade_lista/2; i++) {
 		int elemento_inicio_temp = lista[i];
-		int elemento_fim_temp = lista[j];
-		
-		lista[i] = elemento_fim_temp;
-		lista[j] = elemento_inicio_temp;
-		
-		i++;
-		j--;
+		lista[i] = lista[quantidade_lista - 1 - i];
+		lista[quantidade_lista - 1 - i] = elemento_inicio_temp;
 	}
 }
 
