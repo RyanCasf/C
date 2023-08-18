@@ -1,5 +1,10 @@
 # C
-Codificando em C...
+Jornada de desenvolvimento em C
+
+***
+
+## Mais detalhes
+Para ver mais do conteúdas das páginas acesse o [sumário](DIRECTORY.md).
 
 <pre>
 Realizador:
