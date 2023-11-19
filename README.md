@@ -4,7 +4,7 @@ Jornada de desenvolvimento em C
 ***
 
 ## Mais detalhes
-Para ver mais do conteúdas das páginas acesse o [sumário](DIRECTORY.md).
+Veja a organização das pastas em [sumário](DIRECTORY.md).
 
 <pre>
 Realizador:
